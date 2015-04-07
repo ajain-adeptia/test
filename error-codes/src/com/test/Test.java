@@ -16,6 +16,8 @@ public class Test {
 		try {
 			System.out.println();
 			System.out.println();System.out.println();System.out.println();System.out.println();
+			System.out.println();
+			System.out.println();System.out.println();System.out.println();System.out.println();
 			throw new SystemException(
 					SourceErrorCode.ACCOUNT_CONFIGURATION_INCORRECT);
 		} catch (SystemException e) {
