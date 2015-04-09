@@ -15,6 +15,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		try {
 			System.out.println("Y4444");
+			System.out.println("Y4444");
 			throw new SystemException(
 					SourceErrorCode.ACCOUNT_CONFIGURATION_INCORRECT);
 		} catch (SystemException e) {
