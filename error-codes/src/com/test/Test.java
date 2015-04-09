@@ -14,7 +14,7 @@ public class Test {
 	public static void main(String[] args) throws SystemException {
 		// TODO Auto-generated method stub
 		try {
-			System.out.println();
+			System.out.println("** 1 **");
 			System.out.println();System.out.println();System.out.println();System.out.println();
 			System.out.println();
 			System.out.println();System.out.println();System.out.println();System.out.println();
